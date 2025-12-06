@@ -73,7 +73,7 @@ Expenso is a **comprehensive personal finance management app** built with **Flut
 
 ### Option 2: Run from Source
 1. Clone the repository:  
-   `git clone https://github.com/Jawaria-coder/Expenso.git`  
+   `https://github.com/Expenso-Flutter-App/Expenso-App.git`  
 2. Navigate to the Flutter project:  
    `cd Expenso/Expenso-App`  
 3. Install dependencies:  
